@@ -1,4 +1,4 @@
-# CryptoRecomendation
+# CryptoRecommendation
 CryptoRecommendation service is a web based back-end service (API) in java that helps investors to make right choice in buying crypto. It allows:
 1. Upload currency prices
 2. Provide the currency with the best range
